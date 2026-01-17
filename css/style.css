@@ -477,3 +477,11 @@ footer p a:hover {
     transform: translateY(-2px);
     box-shadow: 0 4px 12px rgba(239, 68, 68, 0.5);
 }
+
+/* Media query para pantallas pequeñas */
+@media screen and (max-width: 650px) {
+    .buscador input,
+    .buscador ul {
+        width: 80%;
+    }
+}
