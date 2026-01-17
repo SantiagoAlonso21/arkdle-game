@@ -1,0 +1,482 @@
+[
+    {
+        "Latitude": "40.0",
+        "Longitude": "49.4",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location1"
+    },
+    {
+        "Latitude": "62.3",
+        "Longitude": "34.4",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location2"
+    },
+    {
+        "Latitude": "83.7",
+        "Longitude": "84.0",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location3"
+    },
+    {
+        "Latitude": "86.8",
+        "Longitude": "56.5",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location4"
+    },
+    {
+        "Latitude": "43.3",
+        "Longitude": "66.4",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location5"
+    },
+    {
+        "Latitude": "23.0",
+        "Longitude": "69.7" ,
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location6"
+    },
+    {
+        "Latitude": "48.4",
+        "Longitude": "19.2",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location7"
+    },
+    {
+        "Latitude": "52.7",
+        "Longitude": "91.1",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location8"
+    },
+    {
+        "Latitude": "69.0",
+        "Longitude": "45.7",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location9"
+    },
+    {
+        "Latitude": "41.5",
+        "Longitude": "45.8",
+        "MapName": "The Island",
+        "PathMapImg": "assets/maps/locations/location10"
+    },
+    {
+        "Latitude": "65.1",
+        "Longitude": "70.8",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location11"
+    },
+    {
+        "Latitude": "54.4",
+        "Longitude": "39.6",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location12"
+    },
+    {
+        "Latitude": "63.3",
+        "Longitude": "44.0",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location13"
+    },
+    {
+        "Latitude": "28.9",
+        "Longitude": "50.4",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location14"
+    },
+    {
+        "Latitude": "61.8",
+        "Longitude": "59.6",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location15"
+    },
+    {
+        "Latitude": "16.8",
+        "Longitude": "26.7",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location16"
+    },
+    {
+        "Latitude": "55.7",
+        "Longitude": "21.8",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location17"
+    },
+    {
+        "Latitude": "78.0",
+        "Longitude": "74.9",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location18"
+    },
+    {
+        "Latitude": "52.4",
+        "Longitude": "17.1",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location19"
+    },
+    {
+        "Latitude": "59.4",
+        "Longitude": "85.8",
+        "MapName": "Scorched Earth",
+        "PathMapImg": "assets/maps/locations/location20"
+    },
+    {
+        "Latitude": "38.1",
+        "Longitude": "45.2",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location21"
+    },
+    {
+        "Latitude": "25.8",
+        "Longitude": "49.6",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location22"
+    },
+    {
+        "Latitude": "19.4",
+        "Longitude": "27.6",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location23"
+    },
+    {
+        "Latitude": "26.0",
+        "Longitude": "50.3",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location24"
+    },
+    {
+        "Latitude": "44.6",
+        "Longitude": "60.4",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location25"
+    },
+    {
+        "Latitude": "48.3",
+        "Longitude": "28.5",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location26"
+    },
+    {
+        "Latitude": "25.1",
+        "Longitude": "63.7",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location27"
+    },
+    {
+        "Latitude": "45.0",
+        "Longitude": "68.2",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location28"
+    },
+    {
+        "Latitude": "55.0",
+        "Longitude": "63.4",
+        "MapName": "Aberration",
+        "PathMapImg": "assets/maps/locations/location29"
+    },
+    {
+        "Latitude": "45.7",
+        "Longitude": "45.9",
+        "MapName": "Extinction",
+        "PathMapImg": "assets/maps/locations/location30"
+    },
+    {
+        "Latitude": "38.3",
+        "Longitude": "14.2",
+        "MapName": "Extinction",
+        "PathMapImg": "assets/maps/locations/location31"
+    },
+    {
+        "Latitude": "61.7",
+        "Longitude": "16.4",
+        "MapName": "Extinction",
+        "PathMapImg": "assets/maps/locations/location32"
+    },
+    {
+        "Latitude": "80.7",
+        "Longitude": "81.4",
+        "MapName": "Extinction",
+        "PathMapImg": "assets/maps/locations/location33"
+    },
+    {
+        "Latitude": "61.6",
+        "Longitude": "66.5 ",
+        "MapName": "Extinction",
+        "PathMapImg": "assets/maps/locations/location34"
+    },
+    {
+        "Latitude": "16.5",
+        "Longitude": "87.9",
+        "MapName": "Extinction",
+        "PathMapImg": "assets/maps/locations/location35"
+    },
+    {
+        "Latitude": "37.4",
+        "Longitude": "71.7",
+        "MapName": "Genesis Part 1",
+        "PathMapImg": "assets/maps/locations/location36"
+    },
+    {
+        "Latitude": "42.4",
+        "Longitude": "48.3",
+        "MapName": "Genesis Part 1",
+        "PathMapImg": "assets/maps/locations/location37"
+    },
+    {
+        "Latitude": "34.9",
+        "Longitude": "53.2",
+        "MapName": "Genesis Part 1",
+        "PathMapImg": "assets/maps/locations/location38"
+    },
+    {
+        "Latitude": "83.5",
+        "Longitude": "60.6",
+        "MapName": "Genesis Part 1",
+        "PathMapImg": "assets/maps/locations/location39"
+    },
+    {
+        "Latitude": "82.6",
+        "Longitude": "83.5",
+        "MapName": "Genesis Part 1",
+        "PathMapImg": "assets/maps/locations/location40"
+    },
+    {
+        "Latitude": "39.5",
+        "Longitude": "16.6",
+        "MapName": "Genesis Part 1",
+        "PathMapImg": "assets/maps/locations/location41"
+    },
+    {
+        "Latitude": "71.0",
+        "Longitude": "81.4",
+        "MapName": "Genesis Part 2",
+        "PathMapImg": "assets/maps/locations/location42"
+    },
+    {
+        "Latitude": "18.3",
+        "Longitude": "89.1",
+        "MapName": "Genesis Part 2",
+        "PathMapImg": "assets/maps/locations/location43"
+    },
+    {
+        "Latitude": "65.6",
+        "Longitude": "75.7",
+        "MapName": "Genesis Part 2",
+        "PathMapImg": "assets/maps/locations/location44"
+    },
+    {
+        "Latitude": "50.3",
+        "Longitude": "34.7",
+        "MapName": "Genesis Part 2",
+        "PathMapImg": "assets/maps/locations/location45"
+    },
+    {
+        "Latitude": "48.3",
+        "Longitude": "12.8",
+        "MapName": "Genesis Part 2",
+        "PathMapImg": "assets/maps/locations/location46"
+    },
+    {
+        "Latitude": "43.3",
+        "Longitude": "68.5",
+        "MapName": "Genesis Part 2",
+        "PathMapImg": "assets/maps/locations/location47"
+    },
+    {
+        "Latitude": "50.9",
+        "Longitude": "77.5",
+        "MapName": "Crystal Isles",
+        "PathMapImg": "assets/maps/locations/location48"
+    },
+    {
+        "Latitude": "31.2",
+        "Longitude": "50.5",
+        "MapName": "Crystal Isles",
+        "PathMapImg": "assets/maps/locations/location49"
+    },
+    {
+        "Latitude": "84.2",
+        "Longitude": "39.4",
+        "MapName": "Crystal Isles",
+        "PathMapImg": "assets/maps/locations/location50"
+    },
+    {
+        "Latitude": "36.4",
+        "Longitude": "32.6",
+        "MapName": "Crystal Isles",
+        "PathMapImg": "assets/maps/locations/location51"
+    },
+    {
+        "Latitude": "69.3",
+        "Longitude": "46.6",
+        "MapName": "Crystal Isles",
+        "PathMapImg": "assets/maps/locations/location52"
+    },
+    {
+        "Latitude": "17.1",
+        "Longitude": "15.3",
+        "MapName": "Crystal Isles",
+        "PathMapImg": "assets/maps/locations/location53"
+    },
+    {
+        "Latitude": "64.5",
+        "Longitude": "30.4",
+        "MapName": "Valguero",
+        "PathMapImg": "assets/maps/locations/location54"
+    },
+    {
+        "Latitude": "96.1",
+        "Longitude": "61.9",
+        "MapName": "Valguero",
+        "PathMapImg": "assets/maps/locations/location55"
+    },
+    {
+        "Latitude": "11.9",
+        "Longitude": "13.4",
+        "MapName": "Valguero",
+        "PathMapImg": "assets/maps/locations/location56"
+    },
+    {
+        "Latitude": "50.6",
+        "Longitude": "79.4",
+        "MapName": "Valguero",
+        "PathMapImg": "assets/maps/locations/location57"
+    },
+    {
+        "Latitude": "49.8",
+        "Longitude": "70.2",
+        "MapName": "Valguero",
+        "PathMapImg": "assets/maps/locations/location58"
+    },
+    {
+        "Latitude": "68.6",
+        "Longitude": "80.3",
+        "MapName": "Valguero",
+        "PathMapImg": "assets/maps/locations/location59"
+    },
+    {
+        "Latitude": "41.0",
+        "Longitude": "69.6",
+        "MapName": "Ragnarok",
+        "PathMapImg": "assets/maps/locations/location60"
+    },
+    {
+        "Latitude": "71.0",
+        "Longitude": "68.4",
+        "MapName": "Ragnarok",
+        "PathMapImg": "assets/maps/locations/location61"
+    },
+    {
+        "Latitude": "22.0",
+        "Longitude": "25.9",
+        "MapName": "Ragnarok",
+        "PathMapImg": "assets/maps/locations/location62"
+    },
+    {
+        "Latitude": "38.7",
+        "Longitude": "38.0",
+        "MapName": "Ragnarok",
+        "PathMapImg": "assets/maps/locations/location63"
+    },
+    {
+        "Latitude": "17.8",
+        "Longitude": "79.1",
+        "MapName": "Ragnarok",
+        "PathMapImg": "assets/maps/locations/location64"
+    },
+    {
+        "Latitude": "57.4",
+        "Longitude": "35.3",
+        "MapName": "Ragnarok",
+        "PathMapImg": "assets/maps/locations/location65"
+    },
+    {
+        "Latitude": "21.5",
+        "Longitude": "20.7",
+        "MapName": "Lost Island",
+        "PathMapImg": "assets/maps/locations/location66"
+    },
+    {
+        "Latitude": "19.1",
+        "Longitude": "32.8",
+        "MapName": "Lost Island",
+        "PathMapImg": "assets/maps/locations/location67"
+    },
+    {
+        "Latitude": "40.5",
+        "Longitude": "47.7",
+        "MapName": "Lost Island",
+        "PathMapImg": "assets/maps/locations/location68"
+    },
+    {
+        "Latitude": "53.9",
+        "Longitude": "64.5",
+        "MapName": "Lost Island",
+        "PathMapImg": "assets/maps/locations/location69"
+    },
+    {
+        "Latitude": "52.1",
+        "Longitude": "74.1",
+        "MapName": "Lost Island",
+        "PathMapImg": "assets/maps/locations/location70"
+    },
+    {
+        "Latitude": "28.8",
+        "Longitude": "66.7",
+        "MapName": "Lost Island",
+        "PathMapImg": "assets/maps/locations/location71"
+    },
+    {
+        "Latitude": "64.4",
+        "Longitude": "91.4",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location72"
+    },
+    {
+        "Latitude": "88.6",
+        "Longitude": "20.0",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location73"
+    },
+    {
+        "Latitude": "72.9",
+        "Longitude": "18.9",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location74"
+    },
+    {
+        "Latitude": "37.8",
+        "Longitude": "34.0",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location75"
+    },
+    {
+        "Latitude": "15.2",
+        "Longitude": "48.3",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location76"
+    },
+    {
+        "Latitude": "45.1",
+        "Longitude": "68.9",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location77"
+    },
+    {
+        "Latitude": "51.3",
+        "Longitude": "68.2",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location78"
+    },
+    {
+        "Latitude": "64.4",
+        "Longitude": "60.0",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location79"
+    },
+    {
+        "Latitude": "36.2",
+        "Longitude": "14.6",
+        "MapName": "The Center",
+        "PathMapImg": "assets/maps/locations/location80"
+    }
+]

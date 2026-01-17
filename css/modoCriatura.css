@@ -1,0 +1,133 @@
+/* ===== MODO CRIATURA ===== */
+
+.contenedorImagenCriatura {
+    position: relative;
+    width: 90%;
+    max-width: 400px;
+    aspect-ratio: 1 / 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    border-radius: 15px;
+    border: 3px solid rgba(228, 158, 34, 0.3);
+    background: rgba(0, 0, 0, 0.3);
+    padding: 40px;
+}
+
+.imagenCriatura {
+    width: 70%;
+    height: 70%;
+    object-fit: contain;
+    transition: transform 0.8s ease;
+}
+
+.imagenCriatura.victoria {
+    border-color: #34d399;
+    box-shadow: 0 0 20px rgba(52, 211, 153, 0.5);
+}
+
+.contenedorImagenCriatura.victoria {
+    border-color: #34d399;
+    box-shadow: 0 0 20px rgba(52, 211, 153, 0.5);
+}
+
+.contenedorCriaturasSeleccionadas {
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(100px, 200px));
+    grid-auto-rows: 100px;
+    column-gap: 20px;
+    row-gap: 15px;
+    justify-content: center;
+    align-items: center;
+    row-gap: 10px;
+}
+
+.criaturaSeleccionada {
+    width: 80%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: 2px solid;
+    font-family: Inter;
+}
+
+.criaturaSeleccionada img {
+    width: 50px;
+    height: 50px;
+    object-fit: contain;
+    border-radius: 8px;
+}
+
+.criaturaSeleccionada span {
+    font-size: 1rem;
+    font-weight: 600;
+}
+
+.criaturaSeleccionada .iconoResultado {
+    font-size: 1.5rem;
+}
+
+/* Switches del modal */
+.opcionSwitch {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    column-gap: 10px;
+}
+
+.opcionSwitch label {
+    color: white;
+    font-family: Inter;
+    font-size: 1rem;
+    font-weight: 500;
+}
+
+.switch {
+    position: relative;
+    display: inline-block;
+    width: 50px;
+    height: 26px;
+}
+
+.switch input {
+    opacity: 0;
+    width: 0;
+    height: 0;
+}
+
+.slider {
+    position: absolute;
+    cursor: pointer;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(60, 60, 60, 0.8);
+    transition: 0.3s;
+    border-radius: 26px;
+}
+
+.slider:before {
+    position: absolute;
+    content: "";
+    height: 20px;
+    width: 20px;
+    left: 3px;
+    bottom: 3px;
+    background-color: #888;
+    transition: 0.3s;
+    border-radius: 50%;
+}
+
+input:checked + .slider {
+    background-color: rgba(228, 158, 34, 0.5);
+}
+
+input:checked + .slider:before {
+    transform: translateX(24px);
+    background-color: #e49e22;
+}

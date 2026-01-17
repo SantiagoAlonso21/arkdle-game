@@ -1,0 +1,31 @@
+.navegabilidad {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 15px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    background: rgba(15, 20, 25, 0.6);
+    border-radius: 15px;
+}
+
+.btnModo {
+    background: none;
+    border: none;
+    cursor: pointer;
+}
+
+.btnModo:hover {
+    transform: scale(1.2);
+    transition: transform 0.2s;
+}
+
+.btnModo img {
+    object-fit: cover;
+    width: auto;
+    height: auto;
+    max-width: 100px;
+}
